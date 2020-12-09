@@ -1,1 +1,1 @@
-![image](https://github.com/athivvat/athivvat/blob/master/dino.gif)
+![image](https://github.com/athivvat/athivvat/blob/master/dev.gif)
